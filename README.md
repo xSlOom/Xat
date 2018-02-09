@@ -1,3 +1,2 @@
 # xat
-I have decided to post stuff which are related to xat.com
-This can be for client bot (DPEV2) or other useful things.
+This repository will be related to xat.com ONLY and not something else. <br /> <br />
