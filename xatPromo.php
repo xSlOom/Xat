@@ -1,4 +1,8 @@
 <?php
+/*
+ * Get all the promoted chats depending on the language.
+ * @Author: xSlOom
+ */
 
 $lang = 'pt'; // can be fr, es, pt, etc...
 
