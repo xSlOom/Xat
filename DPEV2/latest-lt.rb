@@ -1,5 +1,5 @@
 Thread.new(decoy) do |decoy|
-  	# Get API informations
+    # Get API informations
     fgc = xeat("https://api.illuxat.com/latestpower.php?Sloom=#{Time.now.getutc}")
     # Checking if the api isn't down
     if fgc == false
@@ -11,7 +11,7 @@ Thread.new(decoy) do |decoy|
       }))
     end
     # Get the JSON and save data in an array
-		parseJson = JSON.parse(fgc)
+    parseJson = JSON.parse(fgc)
     newData = [
         'ID' => parseJson['latest']['ID'].to_i,
         'name' => parseJson['latest']['Name'].downcase.capitalize,
