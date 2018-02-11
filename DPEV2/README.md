@@ -10,4 +10,4 @@ You can find videos on <strong>how to install it</strong>, <strong>how to use it
 
 If you know what to do with these commands, this is good for you because I'm not going to help you. 😎<br />
 
-All I can say is that the commands are under the <strong>filers/commands</strong> folders.
+All I can say is that the commands are under the <strong>filters/commands</strong> folders.
